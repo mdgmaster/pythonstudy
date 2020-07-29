@@ -20,6 +20,7 @@ while(chances > 0 ):
             chances -= 1
 
 if (chances == 0):
-    print(f"GAME OVER: No has sido capaz de encontrar el número. El número correcto era {mm_count}")
+    print(f"GAME OVER"
+          f"1: No has sido capaz de encontrar el número. El número correcto era {mm_count}")
 
 
